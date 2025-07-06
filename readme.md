@@ -1,5 +1,10 @@
 ![Popis obrázku](AutoBaka.png)
 
+<p align="center">
+  <img src="AutoBaka.png" alt="Schéma aplikace" />
+</p>
+
+
 
 # This is heading
 Foobar is  a Python library for dealing with word luralization
